@@ -1,0 +1,5 @@
+# General
+.DS_Store
+pick.xcodeproj/project.xcworkspace
+pick.xcodeproj/xcuserdata
+*~
